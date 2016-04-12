@@ -52,7 +52,7 @@ MERGED from [com.android.support:support-v4:22.2.0] C:\Users\archana\Documents\S
 	android:icon
 		ADDED from C:\Users\archana\Documents\StudioProjects\NanoP5\xyzreader\src\main\AndroidManifest.xml:13:9-43
 	android:theme
-		ADDED from C:\Users\archana\Documents\StudioProjects\NanoP5\xyzreader\src\main\AndroidManifest.xml:15:9-43
+		ADDED from C:\Users\archana\Documents\StudioProjects\NanoP5\xyzreader\src\main\AndroidManifest.xml:15:9-47
 activity#com.example.xyzreader.ui.ArticleListActivity
 ADDED from C:\Users\archana\Documents\StudioProjects\NanoP5\xyzreader\src\main\AndroidManifest.xml:17:9-24:20
 	android:label

@@ -52,12 +52,12 @@
         "source": "C:\\Users\\archana\\Documents\\StudioProjects\\NanoP5\\xyzreader\\src\\main\\res\\layout\\fragment_article_detail.xml"
     },
     {
-        "merged": "C:\\Users\\archana\\Documents\\StudioProjects\\NanoP5\\xyzreader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\Users\\archana\\Documents\\StudioProjects\\NanoP5\\xyzreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
         "merged": "C:\\Users\\archana\\Documents\\StudioProjects\\NanoP5\\xyzreader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "C:\\Users\\archana\\Documents\\StudioProjects\\NanoP5\\xyzreader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\archana\\Documents\\StudioProjects\\NanoP5\\xyzreader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\archana\\Documents\\StudioProjects\\NanoP5\\xyzreader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media.xml"
     },
     {
         "merged": "C:\\Users\\archana\\Documents\\StudioProjects\\NanoP5\\xyzreader\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar.xml",
