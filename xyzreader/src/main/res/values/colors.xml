@@ -18,8 +18,8 @@
 <resources>
     <color name="photo_placeholder">#ccc</color>
 
-    <color name="colorPrimary">#F50057</color>
-    <color name="colorPrimaryDark">#C51162</color>
+    <color name="colorPrimary">#388E3C</color>
+    <color name="colorPrimaryDark">#1B5E20</color>
     <color name="textColorPrimary">#FFFFFF</color>
     <color name="windowBackground">#ccc</color>
     <color name="colorAccent">#04561A</color>
